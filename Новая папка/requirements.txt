@@ -1,0 +1,16 @@
+# Telegram Bot Framework
+python-telegram-bot==20.7
+
+# HTTP Requests (for Mistral AI)
+requests==2.31.0
+
+# Logging and utilities (built-in, but listed for clarity)
+# asyncio - built-in
+# multiprocessing - built-in
+# sqlite3 - built-in
+# json - built-in
+# os - built-in
+# zipfile - built-in
+# datetime - built-in
+# logging - built-in
+
